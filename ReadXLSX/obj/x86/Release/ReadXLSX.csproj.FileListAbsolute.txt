@@ -1,0 +1,8 @@
+C:\ProjectsCorpv\ATT SE Posting\ReadXLSX\ReadXLSX\ReadXLSX\bin\Release\ReadXLSX.exe
+C:\ProjectsCorpv\ATT SE Posting\ReadXLSX\ReadXLSX\ReadXLSX\bin\Release\ReadXLSX.pdb
+C:\ProjectsCorpv\ATT SE Posting\ReadXLSX\ReadXLSX\ReadXLSX\bin\Release\EPPlus.dll
+C:\ProjectsCorpv\ATT SE Posting\ReadXLSX\ReadXLSX\ReadXLSX\obj\x86\Release\ReadXLSX.Form1.resources
+C:\ProjectsCorpv\ATT SE Posting\ReadXLSX\ReadXLSX\ReadXLSX\obj\x86\Release\ReadXLSX.Properties.Resources.resources
+C:\ProjectsCorpv\ATT SE Posting\ReadXLSX\ReadXLSX\ReadXLSX\obj\x86\Release\ReadXLSX.csproj.GenerateResource.Cache
+C:\ProjectsCorpv\ATT SE Posting\ReadXLSX\ReadXLSX\ReadXLSX\obj\x86\Release\ReadXLSX.exe
+C:\ProjectsCorpv\ATT SE Posting\ReadXLSX\ReadXLSX\ReadXLSX\obj\x86\Release\ReadXLSX.pdb
