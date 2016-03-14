@@ -1,5 +1,5 @@
 # ReadXLSX
-Read a XLSX file without Excel installed.
+Read a Microsoft Excel 2007 and newer (.XLSX) file without Excel installed.
 
 This tool will accept a pipe delimited command line argument for reading and 
 exporting an .XLSX file format to a pipe delimited flat file. 
