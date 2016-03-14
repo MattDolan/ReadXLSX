@@ -16,3 +16,10 @@ Arguments :
 4. Export file. Full path and filename. 
 
 Example arguments: C:\temp\temp.xlsx|12-155|A,C,D|C:\temp\output.txt
+
+This is an example of how it would be called with C#. This assumes it is in the same directory as the app calling it.
+
+    ProcessStartInfo startInfo = new ProcessStartInfo();
+    startInfo.FileName = Path.GetDirectoryName(Application.ExecutablePath) + "\\ReadXLSX.exe";
+    startInfo.Arguments = @"C:\temp\temp.xlsx|12-155|A,C,D|C:\temp\output.txt";
+    Process.Start(startInfo);
